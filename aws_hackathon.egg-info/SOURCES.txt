@@ -1,0 +1,5 @@
+setup.py
+aws_hackathon.egg-info/PKG-INFO
+aws_hackathon.egg-info/SOURCES.txt
+aws_hackathon.egg-info/dependency_links.txt
+aws_hackathon.egg-info/top_level.txt
